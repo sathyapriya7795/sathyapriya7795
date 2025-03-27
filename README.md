@@ -17,7 +17,7 @@ Detail-oriented and analytical **Data Analyst** Intern with experience in data *
   - How I transitioned from **US IT Recruiter** to **data analytics**
 
 - 📫 How to reach me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathya-priya-159324b9/)
 
 ---
 
@@ -42,60 +42,65 @@ Detail-oriented and analytical **Data Analyst** Intern with experience in data *
 
 ---
 
-## 📂 **Projects**
+## 📂 [**Projects**](https://github.com/sathyapriya7795/PBIProjects)
 
 ### 🌟 **Customer Churn Analysis**
 
 **Overview**:
-- **A powerful, data-driven solution** designed to predict Customer Churn.
--	Effectively use power query and DAX for calculation
+- Developed a Power BI dashboard to analyze customer churn behavior across geography, credit type, and customer segments. 
+- The solution helped visualize **churn trends, retention rates, and exit patterns** using interactive reports and filters for timely business decisions and churn reduction strategies.
 - Built a relationship model to identify churn risks.
-- Improved customer retention strategies based on data-driven insights.
--	Created **interactive visualizations** showcasing customer risk profiles and trends.
 
+**ROLES & RESPONSIBILITIES**:
+- Designed dashboards to display **active/inactive customers, CC holders, churn patterns** and retention summaries.
+- Built advanced DAX measures to calculate churn % by gender, geography, credit type, and customer category.
+- Implemented dynamic filters and slicers (Year, Month, Geography, Exit Category) for customized insights.
+- Delivered churn insights via KPI cards, trend lines, pie charts, bar graphs, and conditional formatting visuals to assist with data-driven retention planning.
 
-**Key Features**:
-- 🔍 **Customer Profiling**: Analyzed customer data to determine churn using DAX.
-- 📊 **Data Visualizations**: Created insightful bar charts to visualize customer preferences using **Power BI**.
-
-**Impact**:
-- 📈 Boosted engagement.
-- ⚡ Automated workflows to reduce manual efforts and save time.
+**Samples**:
+![RBC Bank Home](https://github.com/sathyapriya7795/PBIProjects/blob/main/Project%20Samples/RBC%20Bank_Home.jpg?raw=true")
+![RBC Churn%](https://github.com/sathyapriya7795/PBIProjects/blob/main/Project%20Samples/RBC%20Bank_Churn%25.jpg?raw=true")
 
 ---
 
 ### 🌟 **Blinkit Analysis Dashboard**
 
 **Overview**:
-- **An interactive Power BI dashboard** designed to analyzing sales, regional trends, and profitability.
-  
-**Key Features**:
-- 🎯 **Dynamic Visualizations**: Implement action filters, parameters, calculated filed for preparing reports and dashboards.
-- 📊 **Advanced Visualizations**:
-  - Revenue distribution by region and product.
-  - Monthly revenue trends for in-depth performance tracking.
-  - Top-performing sales representatives and regions.
-- 🛠 **Custom DAX Measures**: Built advanced calculations for:
-  - Total revenue.
-  - Revenue contribution percentages.
-  - Product rankings & Rating.
-- ✨ **Interactive Tooltips**: Hover to view detailed insights, such as product-wise revenue breakdown.
-- 📂 **Data Source Management**: Integrated sales data from Excel into Power BI for seamless data handling.
+- Developed a dynamic Power BI dashboard to analyze sales, item distribution, and performance across retail outlets. 
+- Enabled real-time insights using filters for outlet size, location, and item type. 
+- Delivered actionable metrics to support business decisions and improve operational efficiency
 
-**Impact**:
-- 📈 **Improved strategic decision-making** by identifying top-performing regions and sales trends.
-- 🔎 Simplified complex datasets into intuitive, interactive dashboards for easy interpretation.
-- ⚡ Accelerated analysis time, enabling stakeholders to focus on actionable insights.
+**ROLES & RESPONSIBILITIES**:
+
+- Created interactive visualizations and KPIs using Power BI and DAX for key sales metrics.
+- Integrated slicers to enable dynamic filtering by **outlet size, tier, and item category**.
+- Connected Power BI to SQL Server and validated data accuracy across visuals.
+- Partnered with business teams to refine metrics and delivered insight-driven dashboards to enhance sales visibility and outlet performance
+  
+**Samples**:
+<img src="https://github.com/sathyapriya7795/PBIProjects/blob/main/Project%20Samples/Blinkit%20Project.jpg?raw=true" alt="Blinkit Dashboard">
+
 
 ---
 
 ### 🌟 **Supply Chain Management for Car**
 
 **Overview**:
+- Designed an interactive Power BI dashboard for **DTI Labs** to analyze car sales, order patterns, and customer feedback across makers, models, and regions. 
+- Integrated **sales trends, customer satisfaction** and discount data to enable business teams to monitor performance and enhance customer experience.
 - Implement action page navigation for reports.
--	Data modeling connects various data sources and build relationships between them.
--	Provided insights into sales trends, profitability, and regional performance.
 
+**ROLES & RESPONSIBILITIES**:
+
+- Built interactive reports across multiple tabs (Home, Order, Sales, Customer View) with seamless page navigation and branding.
+- Implemented advanced DAX measures and visualizations (line, bar, donut, decomposition tree) for analyzing sales trends, discounts, and feedback by gender, car color, and shipping mode.
+- Created a customer feedback analysis module to track satisfaction levels and correlate them with sales data for actionable insights.
+- Enabled data-driven decisions by providing detailed drill-downs on sales by shipping method, time, region, and customer attributes.
+
+**Samples**:
+![SCM_CAR Order](https://github.com/sathyapriya7795/PBIProjects/blob/main/Project%20Samples/Car_SCM_Order.jpg?raw=true")
+![SCM_CAR Sales](https://github.com/sathyapriya7795/PBIProjects/blob/main/Project%20Samples/Car_SCM_Sales.jpg?raw=true")
+![SCM_CAR Cus view](https://github.com/sathyapriya7795/PBIProjects/blob/main/Project%20Samples/Car_SCM_Customer%20View.jpg?raw=true")
 ---
 
 ## 🛠 **I code in:**
